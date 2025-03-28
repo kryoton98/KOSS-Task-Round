@@ -33,6 +33,7 @@ This repository contains the complete code and resources for benchmarking matrix
 Ensure you have the required libraries installed. Use the following command:  
 ```bash
 pip install numpy numba cupy matplotlib
+```
 
 ## 🔧 **Customization**
 - **Modify matrix sizes** and block dimensions in the scripts for different benchmarks.  
