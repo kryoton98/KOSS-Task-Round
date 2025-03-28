@@ -1,4 +1,4 @@
-# 🚀 **KOSS Task Round: GPU-Accelerated Matrix Multiplication**
+# 🚀 **KOSS Task Round: Optimizing Matrix Multiplication**
 
 ## 📌 **Overview**
 This repository contains the complete code and resources for benchmarking matrix multiplication on both CPU and GPU, using various implementations and optimizations. The project demonstrates the performance benefits of GPU acceleration using **CuPy** with **FP32** and **TensorCore** support, alongside CPU-based approaches with **NumPy**, **Numba**, and custom CUDA kernels.
